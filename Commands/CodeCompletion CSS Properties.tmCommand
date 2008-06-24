@@ -18,7 +18,7 @@ TextmateCodeCompletion.plist('Property Completions')
 	<key>keyEquivalent</key>
 	<string>~</string>
 	<key>name</key>
-	<string>CodeCompletion CSS Properties copy</string>
+	<string>CodeCompletion CSS Properties</string>
 	<key>output</key>
 	<string>insertAsSnippet</string>
 	<key>scope</key>

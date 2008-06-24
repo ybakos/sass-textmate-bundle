@@ -31,7 +31,7 @@ fi</string>
 		<string>gif</string>
 	</array>
 	<key>name</key>
-	<string>Insert Image uri copy</string>
+	<string>Insert Image uri</string>
 	<key>output</key>
 	<string>insertAsSnippet</string>
 	<key>scope</key>

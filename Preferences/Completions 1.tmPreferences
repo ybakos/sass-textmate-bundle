@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Completions copy 1</string>
+	<string>Completions 1</string>
 	<key>scope</key>
 	<string>source.sass -meta.property-list</string>
 	<key>settings</key>

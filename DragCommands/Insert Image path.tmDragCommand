@@ -14,7 +14,7 @@ echo -n $img
 		<string>gif</string>
 	</array>
 	<key>name</key>
-	<string>Insert Image path copy</string>
+	<string>Insert Image path</string>
 	<key>output</key>
 	<string>insertAsSnippet</string>
 	<key>scope</key>

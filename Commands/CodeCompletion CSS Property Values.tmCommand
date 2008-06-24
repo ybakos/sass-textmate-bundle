@@ -29,7 +29,7 @@ print TextmateCodeCompletion.new(choices,STDIN.read).to_snippet
 	<key>keyEquivalent</key>
 	<string>~</string>
 	<key>name</key>
-	<string>CodeCompletion CSS Property Values copy</string>
+	<string>CodeCompletion CSS Property Values</string>
 	<key>output</key>
 	<string>insertAsSnippet</string>
 	<key>scope</key>

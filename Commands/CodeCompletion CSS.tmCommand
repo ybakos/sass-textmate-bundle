@@ -29,7 +29,7 @@ print TextmateCodeCompletion.new(choices,STDIN.read, :scope =&gt; :css).to_snipp
 	<key>keyEquivalent</key>
 	<string>~</string>
 	<key>name</key>
-	<string>CodeCompletion CSS copy</string>
+	<string>CodeCompletion CSS</string>
 	<key>output</key>
 	<string>insertAsSnippet</string>
 	<key>scope</key>
