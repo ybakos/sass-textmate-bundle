@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:list-style-position inside$0</string>
 	<key>name</key>
-	<string>list-style-position: inside copy</string>
+	<string>list-style-position: inside</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

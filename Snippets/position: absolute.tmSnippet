@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:position absolute$0</string>
 	<key>name</key>
-	<string>position: absolute copy</string>
+	<string>position: absolute</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

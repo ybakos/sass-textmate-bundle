@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:text-shadow none$0</string>
 	<key>name</key>
-	<string>text-shadow: none copy</string>
+	<string>text-shadow: none</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

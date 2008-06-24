@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:background-repeat no-repeat$0</string>
 	<key>name</key>
-	<string>background-repeat: no-repeat copy</string>
+	<string>background-repeat: no-repeat</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

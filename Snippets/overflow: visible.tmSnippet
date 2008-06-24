@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:overflow visible$0</string>
 	<key>name</key>
-	<string>overflow: visible copy</string>
+	<string>overflow: visible</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

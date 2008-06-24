@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:cursor resize$0</string>
 	<key>name</key>
-	<string>cursor: resize copy</string>
+	<string>cursor: resize</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

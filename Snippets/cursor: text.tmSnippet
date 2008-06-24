@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:cursor text$0</string>
 	<key>name</key>
-	<string>cursor: text copy</string>
+	<string>cursor: text</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

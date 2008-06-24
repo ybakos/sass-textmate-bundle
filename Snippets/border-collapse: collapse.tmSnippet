@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:border-collapse collapse$0</string>
 	<key>name</key>
-	<string>border-collapse: collapse copy</string>
+	<string>border-collapse: collapse</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

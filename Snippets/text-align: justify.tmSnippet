@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:text-align justify$0</string>
 	<key>name</key>
-	<string>text-align: justify copy</string>
+	<string>text-align: justify</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

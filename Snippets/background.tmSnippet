@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:background #${1:fff} url($2) no-repeat$0</string>
 	<key>name</key>
-	<string>background copy</string>
+	<string>background</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

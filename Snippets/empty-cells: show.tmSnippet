@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:empty-cells show$0</string>
 	<key>name</key>
-	<string>empty-cells: show copy</string>
+	<string>empty-cells: show</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

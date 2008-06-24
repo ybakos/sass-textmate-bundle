@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:cursor wait$0</string>
 	<key>name</key>
-	<string>cursor: wait copy</string>
+	<string>cursor: wait</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:list-style-type decimal-leading-zero$0</string>
 	<key>name</key>
-	<string>list-style-type: decimal-leading-zero copy</string>
+	<string>list-style-type: decimal-leading-zero</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:display marker$0</string>
 	<key>name</key>
-	<string>display: marker copy</string>
+	<string>display: marker</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

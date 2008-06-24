@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:max-width ${1:20}${2:px}$0</string>
 	<key>name</key>
-	<string>max-width: length copy</string>
+	<string>max-width: length</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

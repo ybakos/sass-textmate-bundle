@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:vertical-align bottom$0</string>
 	<key>name</key>
-	<string>vertical-align:  bottom copy</string>
+	<string>vertical-align:  bottom</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

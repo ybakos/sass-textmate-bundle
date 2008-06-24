@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:cursor pointer$0</string>
 	<key>name</key>
-	<string>cursor: pointer copy</string>
+	<string>cursor: pointer</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

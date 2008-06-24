@@ -9,7 +9,7 @@
 	<key>keyEquivalent</key>
 	<string>:</string>
 	<key>name</key>
-	<string>: ; (autocompletion + space copy</string>
+	<string>: ; (autocompletion + space</string>
 	<key>scope</key>
 	<string>support.type.property-name.sass, meta.property-name.sass, meta.scope.property-list.sass meta.property</string>
 	<key>uuid</key>

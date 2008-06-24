@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:caption-side left$0</string>
 	<key>name</key>
-	<string>caption-side: left copy</string>
+	<string>caption-side: left</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:font-style oblique$0</string>
 	<key>name</key>
-	<string>font-style: oblique copy</string>
+	<string>font-style: oblique</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

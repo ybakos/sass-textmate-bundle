@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:clear right$0</string>
 	<key>name</key>
-	<string>clear: right copy</string>
+	<string>clear: right</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

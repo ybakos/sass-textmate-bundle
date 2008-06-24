@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>${1:!important}</string>
 	<key>name</key>
-	<string>!important CSS copy</string>
+	<string>!important CSS</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

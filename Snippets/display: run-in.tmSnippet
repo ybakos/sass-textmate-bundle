@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:display run-in$0</string>
 	<key>name</key>
-	<string>display: run-in copy</string>
+	<string>display: run-in</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

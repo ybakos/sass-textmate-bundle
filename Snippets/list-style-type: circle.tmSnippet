@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:list-style-type circle$0</string>
 	<key>name</key>
-	<string>list-style-type: circle copy</string>
+	<string>list-style-type: circle</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

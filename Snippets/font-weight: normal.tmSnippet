@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:font-weight normal$0</string>
 	<key>name</key>
-	<string>font-weight: normal copy</string>
+	<string>font-weight: normal</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

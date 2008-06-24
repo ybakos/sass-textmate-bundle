@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:border-width ${1:1}${2:px} ${3:1}${4:px}$0</string>
 	<key>name</key>
-	<string>border-width: V H copy</string>
+	<string>border-width: V H</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

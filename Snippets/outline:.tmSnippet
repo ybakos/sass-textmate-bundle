@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:outline ${1:1}px ${2:solid} #${3:999}$0</string>
 	<key>name</key>
-	<string>outline: copy</string>
+	<string>outline:</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

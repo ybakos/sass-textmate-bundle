@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:text-shadow #${1:ddd} ${2:10}${3:px} ${4:10}${5:px} ${6:2}${7:px}$0</string>
 	<key>name</key>
-	<string>text-shadow: color-hex x y blur copy</string>
+	<string>text-shadow: color-hex x y blur</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

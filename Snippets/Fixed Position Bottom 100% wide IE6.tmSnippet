@@ -7,7 +7,7 @@
 ${3:left: expression(eval(document.documentElement.scrollLeft));
 }${4:width: expression(eval(document.documentElement.clientWidth));}$0</string>
 	<key>name</key>
-	<string>Fixed Position Bottom 100% wide IE6 copy</string>
+	<string>Fixed Position Bottom 100% wide IE6</string>
 	<key>scope</key>
 	<string>source.sass meta.property-list</string>
 	<key>tabTrigger</key>

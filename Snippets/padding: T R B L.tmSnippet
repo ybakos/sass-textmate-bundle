@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:padding ${1:1}${2:em} ${3:1}${4:em} ${5:1}${6:em} ${7:1}${8:em}$0</string>
 	<key>name</key>
-	<string>padding: T R B L copy</string>
+	<string>padding: T R B L</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>

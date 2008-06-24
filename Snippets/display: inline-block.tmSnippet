@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:display inline-block$0</string>
 	<key>name</key>
-	<string>display: inline-block copy</string>
+	<string>display: inline-block</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>
