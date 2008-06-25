@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:background-position ${1:left} ${2:center} ${3:right} ${4:top} ${5:center} $6:bottom}$0</string>
+	<string>:background-color = !${1:sass_color}$0</string>
 	<key>name</key>
-	<string>background-position: keyword</string>
+	<string>background-color: sass</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>
-	<string>bgp</string>
+	<string>bgc</string>
 	<key>uuid</key>
-	<string>EE960643-F8E2-47EB-AC54-56B8FE3FA8F3</string>
+	<string>23D20F97-67D7-4663-9E61-5622468728B3</string>
 </dict>
 </plist>
