@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:font-family ${1:"Lucida Grande","Lucida Sans Unicode", helvetica, verdana, arial}, ${2:sans-}serif$0</string>
+	<string>:font-family ${1:Georgia, }${2:"Lucida Grande", }${3:"Lucida Sans Unicode", }${4:helvetica, }${5:verdana, }${6:arial, }${7:times, "Times New Roman", }${8:sans-}serif$0</string>
 	<key>name</key>
 	<string>font-family: family</string>
 	<key>scope</key>
