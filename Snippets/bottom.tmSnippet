@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:height ${1:0}${2:em}</string>
+	<string>:bottom ${1:0}${2:em}</string>
 	<key>name</key>
-	<string>height:</string>
+	<string>bottom</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>
-	<string>h</string>
+	<string>b</string>
 	<key>uuid</key>
-	<string>6AA6F251-4D22-4BDE-983D-3D5192134371</string>
+	<string>0FE38291-55B8-45EC-8336-304B8944E049</string>
 </dict>
 </plist>

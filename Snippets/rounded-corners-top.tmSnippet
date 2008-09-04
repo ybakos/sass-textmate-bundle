@@ -3,14 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:height ${1:0}${2:em}</string>
+	<string>:-moz-border-radius-topright ${2:.5em}
+:-webkit-border-top-right-radius $2
+:-moz-border-radius-topleft $2
+:-webkit-border-top-left-radius $2</string>
 	<key>name</key>
-	<string>height:</string>
+	<string>rounded-corners-top</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>
-	<string>h</string>
+	<string>rct</string>
 	<key>uuid</key>
-	<string>6AA6F251-4D22-4BDE-983D-3D5192134371</string>
+	<string>C6EA43C1-B7BD-4D02-903D-F1DF144D7724</string>
 </dict>
 </plist>

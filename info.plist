@@ -15,7 +15,7 @@
 			<string>B0DFDD17-0965-4DA9-839D-70A296E67978</string>
 			<string>9293A4AC-4E90-4D2B-A81F-13CD9B16B030</string>
 			<string>203AD2F6-B094-47EC-8B98-CF21DC3EF8AF</string>
-			<string>D6E82599-1911-46AE-9C2B-FDEE23423430</string>
+			<string>C6EA43C1-B7BD-4D02-903D-F1DF144D7724</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -58,6 +58,7 @@
 			<dict>
 				<key>items</key>
 				<array>
+					<string>D6E82599-1911-46AE-9C2B-FDEE23423430</string>
 					<string>E2CC7D28-9F0B-4BBB-ACE0-E67682DF3889</string>
 					<string>CAA6F407-A6C0-401D-9DBF-F9585788EAB0</string>
 					<string>92D48B49-230A-4688-A736-713A5BE56AB2</string>
@@ -186,7 +187,11 @@
 					<string>FC76F645-3F9C-49DE-A93D-FE4C66B47509</string>
 					<string>------------------------------------</string>
 					<string>9201B7B8-214B-473B-AF61-2765953227EB</string>
-					<string>5489B25F-9C1C-4749-B2B5-F173FCCC5C1D</string>
+					<string>6AA6F251-4D22-4BDE-983D-3D5192134371</string>
+					<string>8E3CC452-08A2-4EED-BB71-2C8E7C9ED4E4</string>
+					<string>2BDDD6B9-8FAF-44BC-8ABF-1E7BC2F43310</string>
+					<string>0FE38291-55B8-45EC-8336-304B8944E049</string>
+					<string>D96C31CA-8519-4605-BDDC-74910CED52AA</string>
 					<string>------------------------------------</string>
 					<string>C097495C-659D-4B9E-8D0E-C3A0ED3BE424</string>
 					<string>F453508D-32B5-4E2F-A166-0E2F6F826815</string>
@@ -327,6 +332,7 @@
 		<string>61F372F8-4C28-4B4C-9C42-24B2B55DA5E0</string>
 		<string>67F71235-CC4F-42E1-A9E5-991A398F4BC1</string>
 		<string>D6E82599-1911-46AE-9C2B-FDEE23423430</string>
+		<string>C6EA43C1-B7BD-4D02-903D-F1DF144D7724</string>
 		<string>4360D872-020E-4811-8981-03588949E380</string>
 		<string>7F925105-2B8F-4FCF-A3D7-15CA6763B303</string>
 		<string>80E6676B-F6CB-4300-AB48-863F391C54F6</string>
@@ -470,7 +476,6 @@
 		<string>F76DEA2A-76C3-4D87-B144-C7D54063AC6C</string>
 		<string>0643AEB8-653A-401E-A96F-3D243092B977</string>
 		<string>A8FE85FF-EE35-4E0E-BCA6-64C370159BAA</string>
-		<string>5489B25F-9C1C-4749-B2B5-F173FCCC5C1D</string>
 		<string>3201B5DF-0AF7-4B9B-846F-5C4379E38897</string>
 		<string>E4484A18-0C7D-4B17-92D8-35EB28253B39</string>
 		<string>1487FB95-5802-404B-A766-C222EE1FFDE0</string>
@@ -515,6 +520,11 @@
 		<string>E56A68BE-C964-4829-819B-D004CDF9E578</string>
 		<string>35347335-27CF-4192-A80B-87A10FC1F88D</string>
 		<string>9201B7B8-214B-473B-AF61-2765953227EB</string>
+		<string>6AA6F251-4D22-4BDE-983D-3D5192134371</string>
+		<string>8E3CC452-08A2-4EED-BB71-2C8E7C9ED4E4</string>
+		<string>D96C31CA-8519-4605-BDDC-74910CED52AA</string>
+		<string>2BDDD6B9-8FAF-44BC-8ABF-1E7BC2F43310</string>
+		<string>0FE38291-55B8-45EC-8336-304B8944E049</string>
 	</array>
 	<key>uuid</key>
 	<string>42D15628-6350-4934-935C-531B73C23444</string>
