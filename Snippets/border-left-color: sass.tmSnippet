@@ -3,14 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:border-bottom-width ${1:1}${2:px}$0</string>
+	<string>:border-left-color = !${2:sass_color}
+</string>
 	<key>name</key>
-	<string>border-bottom-width: size</string>
+	<string>border-left-color: sass</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>
-	<string>bbw</string>
+	<string>blc</string>
 	<key>uuid</key>
-	<string>50658088-AAF8-4B12-A1DB-438382E853EB</string>
+	<string>7155A4ED-EDFF-4417-BDDE-0E628BAD63CE</string>
 </dict>
 </plist>
