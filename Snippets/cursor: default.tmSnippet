@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:cursor default$0</string>
+	<string>cursor: default$0</string>
 	<key>name</key>
 	<string>cursor: default</string>
 	<key>scope</key>

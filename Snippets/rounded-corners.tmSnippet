@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:-moz-border-radius ${2:.5em}
+	<string>-moz-border-radius: ${2:.5em}
 :-webkit-border-radius $2</string>
 	<key>name</key>
 	<string>rounded-corners</string>

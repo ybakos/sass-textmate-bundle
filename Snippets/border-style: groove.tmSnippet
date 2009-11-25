@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:border-style groove$0</string>
+	<string>border-style: groove$0</string>
 	<key>name</key>
 	<string>border-style: groove</string>
 	<key>scope</key>

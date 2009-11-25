@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:vertical-align middle$0</string>
+	<string>vertical-align: middle$0</string>
 	<key>name</key>
 	<string>vertical-align: middle</string>
 	<key>scope</key>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:-moz-border-radius-topright ${2:.5em}
+	<string>-moz-border-radius-topright: ${2:.5em}
 :-webkit-border-top-right-radius $2
 :-moz-border-radius-topleft $2
 :-webkit-border-top-left-radius $2</string>

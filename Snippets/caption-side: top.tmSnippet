@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:caption-side top$0</string>
+	<string>caption-side: top$0</string>
 	<key>name</key>
 	<string>caption-side: top</string>
 	<key>scope</key>

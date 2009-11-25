@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:text-align center$0</string>
+	<string>text-align: center$0</string>
 	<key>name</key>
 	<string>text-align: center</string>
 	<key>scope</key>

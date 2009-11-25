@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:top ${1:0}${2:em}</string>
+	<string>top: ${1:0}${2:em}</string>
 	<key>name</key>
 	<string>top:</string>
 	<key>scope</key>

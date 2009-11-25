@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:border-bottom-width ${1:1}${2:px}$0</string>
+	<string>border-bottom-width: ${1:1}${2:px}$0</string>
 	<key>name</key>
 	<string>border-bottom-width: size</string>
 	<key>scope</key>

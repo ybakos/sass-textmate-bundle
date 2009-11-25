@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:opacity ${1:0.5};${100:
+	<string>opacity: ${1:0.5};${100:
 }-moz-opacity: ${1:0.5};${100:
 }filter:alpha(opacity=${2:${1/(1?)0?\.(.*)/$1$2/}${1/^\d*\.\d\d+$|^\d*$|(^\d\.\d$)/(?1:0)/}})$0</string>
 	<key>name</key>

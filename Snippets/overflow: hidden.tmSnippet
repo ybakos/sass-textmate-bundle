@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:overflow hidden$0</string>
+	<string>overflow: hidden$0</string>
 	<key>name</key>
 	<string>overflow: hidden</string>
 	<key>scope</key>

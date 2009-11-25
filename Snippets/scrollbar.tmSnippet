@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:scrollbar-base-color       ${1:#CCCCCC};${2:
+	<string>scrollbar-base-color:       ${1:#CCCCCC};${2:
 :scrollbar-arrow-color      ${3:#000000};
 :scrollbar-track-color      ${4:#999999};
 :scrollbar-3dlight-color    ${5:#EEEEEE};

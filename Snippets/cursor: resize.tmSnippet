@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:cursor resize$0</string>
+	<string>cursor: resize$0</string>
 	<key>name</key>
 	<string>cursor: resize</string>
 	<key>scope</key>

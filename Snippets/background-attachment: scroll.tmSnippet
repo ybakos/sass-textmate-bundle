@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:background-attachment scroll$0</string>
+	<string>background-attachment: scroll$0</string>
 	<key>name</key>
 	<string>background-attachment: scroll</string>
 	<key>scope</key>

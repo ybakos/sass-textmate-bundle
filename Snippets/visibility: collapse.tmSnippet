@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:visibility collapse$0</string>
+	<string>visibility: collapse$0</string>
 	<key>name</key>
 	<string>visibility: collapse</string>
 	<key>scope</key>

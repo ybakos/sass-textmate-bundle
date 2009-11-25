@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:text-decoration overline$0</string>
+	<string>text-decoration: overline$0</string>
 	<key>name</key>
 	<string>text-decoration: overline</string>
 	<key>scope</key>

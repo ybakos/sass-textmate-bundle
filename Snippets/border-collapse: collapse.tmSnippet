@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:border-collapse collapse$0</string>
+	<string>border-collapse: collapse$0</string>
 	<key>name</key>
 	<string>border-collapse: collapse</string>
 	<key>scope</key>

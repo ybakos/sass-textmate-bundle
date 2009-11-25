@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:border 1px solid ${1:red}$0</string>
+	<string>border: 1px solid ${1:red}$0</string>
 	<key>name</key>
 	<string>border 1px debbug</string>
 	<key>scope</key>

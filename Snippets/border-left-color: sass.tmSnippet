@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:border-left-color = !${2:sass_color}
+	<string>border-left-color: = !${2:sass_color}
 </string>
 	<key>name</key>
 	<string>border-left-color: sass</string>

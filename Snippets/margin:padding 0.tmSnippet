@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:margin 0
+	<string>margin: 0
 :padding 0</string>
 	<key>name</key>
 	<string>margin+padding: 0</string>

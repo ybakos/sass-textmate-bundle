@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:visibility hidden$0</string>
+	<string>visibility: hidden$0</string>
 	<key>name</key>
 	<string>visibility: hidden</string>
 	<key>scope</key>

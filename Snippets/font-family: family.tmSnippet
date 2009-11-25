@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:font-family ${1:Georgia, }${2:"Lucida Grande", }${3:"Lucida Sans Unicode", }${4:helvetica, }${5:verdana, }${6:arial, }${7:times, "Times New Roman", }${8:sans-}serif$0</string>
+	<string>font-family: ${1:Georgia, }${2:"Lucida Grande", }${3:"Lucida Sans Unicode", }${4:helvetica, }${5:verdana, }${6:arial, }${7:times, "Times New Roman", }${8:sans-}serif$0</string>
 	<key>name</key>
 	<string>font-family: family</string>
 	<key>scope</key>

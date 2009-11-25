@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:margin 0 auto</string>
+	<string>margin: 0 auto</string>
 	<key>name</key>
 	<string>margin: 0 auto</string>
 	<key>scope</key>

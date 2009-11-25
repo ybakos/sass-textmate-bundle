@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:list-style-position inside$0</string>
+	<string>list-style-position: inside$0</string>
 	<key>name</key>
 	<string>list-style-position: inside</string>
 	<key>scope</key>

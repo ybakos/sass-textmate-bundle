@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:text-transform uppercase$0</string>
+	<string>text-transform: uppercase$0</string>
 	<key>name</key>
 	<string>text-transform: upper</string>
 	<key>scope</key>

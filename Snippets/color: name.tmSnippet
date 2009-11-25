@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:color ${1:white }${2:black }${3:transparent }${4:red}$0</string>
+	<string>color: ${1:white }${2:black }${3:transparent }${4:red}$0</string>
 	<key>name</key>
 	<string>color: name</string>
 	<key>scope</key>

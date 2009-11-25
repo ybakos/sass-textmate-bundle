@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:background-position${1: left}${2: center}${3: right}${4: top}${5: center}${6: bottom}$0</string>
+	<string>background-position:${1: left}${2: center}${3: right}${4: top}${5: center}${6: bottom}$0</string>
 	<key>name</key>
 	<string>background-position: keyword</string>
 	<key>scope</key>
