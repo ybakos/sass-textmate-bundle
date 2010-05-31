@@ -97,6 +97,12 @@
 		</dict>
 		<dict>
 			<key>match</key>
+			<string>(left|right|true|false|top|bottom)(?!:)</string>
+			<key>name</key>
+			<string>constant.string.sass</string>
+		</dict>
+		<dict>
+			<key>match</key>
 			<string>(?&lt;=[\d])(px|pt|cm|mm|in|em|ex|pc)\b|%</string>
 			<key>name</key>
 			<string>constant.other.unit.sass</string>
