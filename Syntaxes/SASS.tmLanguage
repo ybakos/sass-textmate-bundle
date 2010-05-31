@@ -21,6 +21,12 @@
 			<string>keyword.control.untitled</string>
 		</dict>
 		<dict>
+			<key>match</key>
+			<string>@(import|mixin|charset|import|media|page|font-face|namespace) [\/\.\w-]*\b</string>
+			<key>name</key>
+			<string>keyword.control.at-rule.sass</string>
+		</dict>
+		<dict>
 			<key>begin</key>
 			<string>"</string>
 			<key>end</key>
