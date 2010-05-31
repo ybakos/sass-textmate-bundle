@@ -22,7 +22,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>@(import|mixin|charset|import|media|page|font-face|namespace) [\/\.\w-]*\b</string>
+			<string>@(import|mixin|include|charset|import|media|page|font-face|namespace) [\/\.\w-]*\b</string>
 			<key>name</key>
 			<string>keyword.control.at-rule.sass</string>
 		</dict>
@@ -87,7 +87,7 @@
 			<key>match</key>
 			<string>\+[-\w]+</string>
 			<key>name</key>
-			<string>support</string>
+			<string>entity.other.attribute-name.tag.pseudo-class</string>
 		</dict>
 		<dict>
 			<key>match</key>
@@ -114,6 +114,18 @@
 			<string>\)</string>
 			<key>name</key>
 			<string>variable.parameter.url</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>&amp;</string>
+			<key>name</key>
+			<string>keyword.control.untitled</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>:(before|after|first-child|last-child|first-line|first-letter|link|focus|lang|hover|active|visited)</string>
+			<key>name</key>
+			<string>entity.other.attribute-name.tag.pseudo-class</string>
 		</dict>
 		<dict>
 			<key>match</key>
