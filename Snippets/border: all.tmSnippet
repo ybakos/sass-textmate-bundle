@@ -4,8 +4,8 @@
 <dict>
 	<key>content</key>
 	<string>border-style: ${1:solid }
-:border-color = !${2:sass_color}
-:border-width ${131:1}${14:px}$0</string>
+border-color = !${2:sass_color}
+border-width: ${131:1}${14:px}$0</string>
 	<key>name</key>
 	<string>border: all</string>
 	<key>scope</key>
