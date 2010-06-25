@@ -8,11 +8,11 @@
 -moz-border-radius-topleft:			$2
 -webkit-border-top-left-radius:		$2</string>
 	<key>name</key>
-	<string>rounded-corners-top</string>
+	<string>border-radius-top</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>
-	<string>rct</string>
+	<string>brt</string>
 	<key>uuid</key>
 	<string>C6EA43C1-B7BD-4D02-903D-F1DF144D7724</string>
 </dict>
