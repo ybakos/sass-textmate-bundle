@@ -3,7 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>fileTypes</key>
-	<array/>
+	<array>
+		<string>sass</string>
+		<string>scss</string>
+	</array>
 	<key>foldingStartMarker</key>
 	<string>/\*|^#|^\*|^\b|^\.</string>
 	<key>foldingStopMarker</key>
@@ -71,7 +74,7 @@
 			<key>begin</key>
 			<string>/\*</string>
 			<key>end</key>
-			<string>\*/|$</string>
+			<string>\*/</string>
 			<key>name</key>
 			<string>comment.block.sass</string>
 		</dict>

@@ -3,15 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>border-left-color = !${2:sass_color}
-</string>
+	<string>-webkit-box-shadow= ${1:0} ${2:0} ${3:5px} ${4:#000}
+-moz-box-shadow= $1 $2 $3 $4
+-box-shadow= $1 $2 $3 $4</string>
 	<key>name</key>
-	<string>border-left-color: sass</string>
+	<string>box-shadow</string>
 	<key>scope</key>
 	<string>source.sass</string>
 	<key>tabTrigger</key>
-	<string>blc</string>
+	<string>bs</string>
 	<key>uuid</key>
-	<string>7155A4ED-EDFF-4417-BDDE-0E628BAD63CE</string>
+	<string>650F6FA1-F849-4CB0-BA0B-BCB05D0ACD07</string>
 </dict>
 </plist>
