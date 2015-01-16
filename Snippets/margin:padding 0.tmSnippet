@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>margin: 0
-:padding 0</string>
+padding: 0</string>
 	<key>name</key>
 	<string>margin+padding: 0</string>
 	<key>scope</key>
